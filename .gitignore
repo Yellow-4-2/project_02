@@ -1,0 +1,7 @@
+# 忽略index.css
+/index.css
+
+# 忽略文件夹
+/test/
+
+?????.js
